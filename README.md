@@ -1,4 +1,4 @@
-# USER-SERVICES
+# PRODUCT-SERVICES
 
 Microservicio encargado de acceder a la base de datos de productos
 
